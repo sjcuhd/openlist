@@ -1,1 +1,1 @@
-一个alist登录框
+一个可用于Alist/openlist的css美化
